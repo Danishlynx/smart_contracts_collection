@@ -1,4 +1,4 @@
-#NFT Game and Item Contracts
+# NFT Game and Item Contracts
 
 This repository contains two Solidity smart contracts for a simple NFT (Non-Fungible Token) game:
 
